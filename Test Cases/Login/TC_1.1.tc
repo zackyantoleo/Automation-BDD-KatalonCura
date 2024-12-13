@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_1.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c6ac35b0-64ba-457c-a745-4ff4b9b4de26</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>64f01e4a-82f9-4a23-804d-06fd69bf5b19</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>64f01e4a-82f9-4a23-804d-06fd69bf5b19</id>
+      <masked>false</masked>
+      <name>currentUrl</name>
+   </variable>
+</TestCaseEntity>
